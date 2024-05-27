@@ -25,3 +25,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j00boy&layout=compact&theme=dracula)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkjjhh96)](https://solved.ac/kkjjhh96/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={kkjjhh96}&theme=warm)
