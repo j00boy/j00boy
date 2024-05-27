@@ -26,3 +26,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkjjhh96)](https://solved.ac/kkjjhh96/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={kkjjhh96}&theme=warm)
+<img src="http://mazandi.herokuapp.com/api?handle={kkjjhh96}&theme=warm"/>
