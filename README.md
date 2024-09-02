@@ -4,8 +4,6 @@
 <hr>
 <br>
 
----
-
 ### 🛸 Career
 ##### Student Developer at 11th SSAFY<br>
 - 2024.01.02 ~
