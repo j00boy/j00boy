@@ -4,6 +4,8 @@
 <hr>
 <br>
 
+---
+
 ### 🛸 Career
 ##### Student Developer at 11th SSAFY<br>
 - 2024.01.02 ~
@@ -11,7 +13,7 @@
 ##### GS Retail
 - 2022.07 ~ 2023.07
 
-<br>
+---
 
 ### 🛸 Skills
 
@@ -40,7 +42,7 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-<br>
+---
 
 ### 📜 Certifications
 
@@ -58,8 +60,7 @@
 - **등급:** 2급
 
 
-
-<br>
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j00boy&layout=compact&theme=dracula)
 
