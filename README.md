@@ -7,7 +7,7 @@
 ### 🛸 Career
 ##### Student Developer at 11th SSAFY<br>
 - 2024.01.02 ~
-
+    
 ##### GS Retail
 - 2022.07 ~ 2023.07
 
@@ -25,6 +25,7 @@
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=hibernate&logoColor=white"/>
 </p>
 
 #### 👾 Tools 👽
@@ -39,7 +40,26 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-<br><br>
+<br>
+
+### 📜 Certifications
+
+#### 정보처리기사
+- **취득일:** 2024.09.10
+
+#### SQLD
+- **취득일:** 2024.09.20
+
+#### 물류관리사
+- **취득일:** 2021.08.18
+
+#### 유통관리사
+- **취득일:** 2021.09.21
+- **등급:** 2급
+
+
+
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j00boy&layout=compact&theme=dracula)
 
