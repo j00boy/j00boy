@@ -1,4 +1,3 @@
-### JuHyeong Kim
 <img src="https://img.shields.io/badge/kkjjhh9705@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 <hr>
