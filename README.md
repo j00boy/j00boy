@@ -6,6 +6,7 @@
 앞으로도 서로의 아이디어를 잘 엮어가며, 확장 가능한 아키텍처를 통해 요구 사항을 충족하고, 빠르고 신뢰성 있는 백엔드 시스템을 만들어 서비스의 진정한 가치를 전달하고자 합니다.
 
 <img src="https://img.shields.io/badge/kkjjhh9705@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/kkjjhh06@naver.com.com-EA4335?style=flat-square&logo=naver&logoColor=white"/>
 
 <hr>
 
