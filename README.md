@@ -4,10 +4,10 @@
 팀원들과 긴밀하게 협력하여 복잡한 문제를 해결하고, 서비스의 근간을 구축하는 데 주력합니다. 각자의 강점을 살려 효율적인 결과를 도출하고, 사용자에게 실질적인 가치를 전달하는 데 집중해 왔습니다.
 
 앞으로도 서로의 아이디어를 잘 엮어가며, 확장 가능한 아키텍처를 통해 요구 사항을 충족하고, 빠르고 신뢰성 있는 백엔드 시스템을 만들어 서비스의 진정한 가치를 전달하고자 합니다.
+
 <img src="https://img.shields.io/badge/kkjjhh9705@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 <hr>
-<br>
 
 ### 🛸 Career
 ##### Student Developer at 11th SSAFY<br>
