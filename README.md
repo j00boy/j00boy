@@ -13,11 +13,14 @@
 ---
 
 ### 🛸 Project
-##### 미성년자를 위한 금융 통합 플랫폼: 돈줌(DonZoom)
+#### 미성년자를 위한 금융 통합 플랫폼: 돈줌(DonZoom)
+[돈줌 프로젝트 보기](https://github.com/j00boy/donzoom)
 
-##### 초보 등산러들의 더 나은 등산 경험을 위한 등산 통합 플랫폼: 오름(ORM)
+#### 초보 등산러들의 더 나은 등산 경험을 위한 등산 통합 플랫폼: 오름(ORM)
+[돈줌 프로젝트 보기](https://github.com/j00boy/orm)
 
-##### 운동용품 전문 웹 쇼핑몰 프로젝트: 스포츠스탠다드(SportsStandard)
+#### 운동용품 전문 웹 쇼핑몰 프로젝트: 스포츠스탠다드(SportsStandard)
+[돈줌 프로젝트 보기](https://github.com/j00boy/sportsstandard)
 
 ### 🛸 Skills
 
